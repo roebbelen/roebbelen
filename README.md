@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markroeb
 - 👀 I’m interested in game development, music software, rhythm games, and design.
-- 🌱 I’m currently learning about web3 & blockchain integration in games.
-- 💞️ I’m looking to collaborate on innovative rhythm and/or web3 games.
+- 🌱 I’m currently learning about web3 game development.
+- 💞️ I’m looking to collaborate on innovative rhythm and web3 games.
 - 📫 How to reach me: markroebbelen@gmail.com
 
 <!---
