@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roebbelen.
 - 👀 I’m interested in game development, music software, rhythm games, and design.
-- 🌱 I’m currently learning about web3 game development.
-- 💞️ I’m looking to collaborate on innovative rhythm and web3 games.
+- 🌱 I’m currently learning more about C# and Unity.
+- 💞️ I’m looking to collaborate on innovative games that focus on musical/rhythm elements.
 - 📫 How to reach me: markroebbelen@gmail.com
 
 <!---
