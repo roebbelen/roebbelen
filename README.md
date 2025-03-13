@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @roebbelen.
-- 👀 I’m interested in game development, music software, and rhythm games.
-- 🌱 I’m currently learning more about C#, Unity, and React.
-- 💞️ I’m looking to collaborate on innovative games that focus on musical/rhythm elements.
+App Developer
 - 📫 How to reach me: markroebbelen@gmail.com
 
 <!---
