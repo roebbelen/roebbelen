@@ -1,13 +1,3 @@
-## Learning
-
-🧠 [Learning Mindmap](https://miro.com/app/board/uXjVIUwgAtc=/)
-
-📚 [Reading Queue](https://github.itap.purdue.edu/users/mroebbel/projects/1/views/1)
-
-📖 [Goodreads Profile](https://www.goodreads.com/roebbelen)
-
-</> [LeetCode Profile](https://leetcode.com/u/mroebbelen/)
-
 ## Primary Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio" width="100"/>      
